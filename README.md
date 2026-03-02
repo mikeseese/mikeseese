@@ -8,7 +8,7 @@
 
 ⏩ Self-starting, needs-no-hand-holding, productive-on-first-day, senior+ software engineer with a knack for solving complex problems and a keen sense for great UX and Product
 
-💼 Looking for employment and contract opportunities
+💼 Looking for employment and contract opportunities; [contact me if you're interested in meeting](mailto:mike@incanta.dev)
 
 - [Recent Projects](#recent-projects)
 - [Client Work](#client-work)
@@ -49,7 +49,7 @@
 
 ## Awards
 
-[**$25k USD Epic MegaGrant for Redwood Multiplayer Backend**](https://redwoodmultiplayer.com/blog/megagrant-announcement)
+[**$25k USD Epic MegaGrant**](https://redwoodmultiplayer.com/blog/megagrant-announcement) for Redwood Multiplayer Backend
 
 **2k REP ([~$70k USD at award](https://x.com/AugurProject/status/1012073867026632704?s=20)) Software Bounty for a [Portable Solidity Debugger](https://github.com/AugurProject/augur-bounties#-bounty-2-portable-solidity-debugger)**
 
