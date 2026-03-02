@@ -4,7 +4,7 @@
 
 ✨ Founder of Incanta (aka Incanta Games), primarily focused on games developer tools
 
-👾 Co-organizer of [Unreal PDX](https://communities.unrealengine.com/portland/)
+👾 Co-organizer of Portland's official Unreal Engine community: [Unreal PDX](https://communities.unrealengine.com/portland/)
 
 ⏩ Self-starting, needs-no-hand-holding, productive-on-first-day, senior+ software engineer with a knack for solving complex problems and a keen sense for great UX and Product
 
