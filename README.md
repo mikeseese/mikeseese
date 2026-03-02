@@ -18,15 +18,15 @@
 
 [**Hathora**](https://hathora.dev) provides hybrid cloud orchestration for multiplayer game servers used by AA-AAA studios like **1047 Games** and **Frost Giant Studios**.
 
-    - Over 500 hours in 2023-2026, I developed Hathora's [Unreal Engine plugin](https://github.com/hathora/hathora-unreal-sdk), [Unreal Build Accelerator support](https://github.com/hathora/uba), and helped client studios with miscellaneous Unreal, Horde, and UBA issues.
+  - Over 500 hours in 2023-2026, I developed Hathora's [Unreal Engine plugin](https://github.com/hathora/hathora-unreal-sdk), [Unreal Build Accelerator support](https://github.com/hathora/uba), and helped client studios with miscellaneous Unreal, Horde, and UBA issues.
 
 [**JALI**](https://jaliresearch.com/) provides automated lip sync and facial animation software for AA-AAA game and virtual production studios like **CD PROJEKT RED**, **Xbox**, and **Obsidian Entertainment**.
 
-    - Over 350 hours in 2022-2024, I co-developed JALI's Unreal Engine plugin and emotion tagging desktop app used by these studios. I also provided engineering mentorship to JALI's internal developers so they can be self sufficient.
+  - Over 350 hours in 2022-2024, I co-developed JALI's Unreal Engine plugin and emotion tagging desktop app used by these studios. I also provided engineering mentorship to JALI's internal developers so they can be self sufficient.
 
 [**Gardens Interactive**](https://gardens.dev/) is a distributed games studio from developers of games like _Journey, What Remains of Edith Finch, Sky: Children of the Light, Blaseball, Dustforce, Guild Wars 2, Firewatch_, and more.
 
-    - Over 60 hours in 20224, I assisted them with their upcoming flagship game, implementing "forking" Linux game servers to optimize usage and assisting with debugging desynchronization issues with CMC and Gameplay Abilities.
+  - Over 60 hours in 20224, I assisted them with their upcoming flagship game, implementing "forking" Linux game servers to optimize usage and assisting with debugging desynchronization issues with CMC and Gameplay Abilities.
 
 ## Past Projects
 
