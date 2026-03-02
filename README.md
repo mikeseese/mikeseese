@@ -1,6 +1,14 @@
 # Hey! I'm Mike
 
-📍 Vancouver, WA (near Portland, OR, USA)
+📍 Located in Vancouver, WA (near Portland, OR, USA)
+
+✨ Founder of Incanta (aka Incanta Games), primarily focused on games developer tools
+
+👾 Co-organizer of [Unreal PDX](https://communities.unrealengine.com/portland/)
+
+⏩ Self-starting, needs-no-hand-holding, productive-on-first-day, senior+ software engineer with a knack for solving complex problems and a keen sense for great UX and Product
+
+💼 Looking for employment and contract opportunities
 
 ## Recent Projects
 
@@ -16,29 +24,52 @@
 
 ## Client Work
 
-[**Hathora**](https://hathora.dev) provides hybrid cloud orchestration for multiplayer game servers used by AA-AAA studios like **1047 Games** and **Frost Giant Studios**.
+[**Hathora**](https://hathora.dev) provides hybrid cloud orchestration for multiplayer game servers used by AA-AAA studios like [**1047 Games**](https://www.splitgate.com/) and [**Frost Giant Studios**](https://frostgiant.com/).
 
   - Over 500 hours in 2023-2026, I developed Hathora's [Unreal Engine plugin](https://github.com/hathora/hathora-unreal-sdk), [Unreal Build Accelerator support](https://github.com/hathora/uba), and helped client studios with miscellaneous Unreal, Horde, and UBA issues.
 
-[**JALI**](https://jaliresearch.com/) provides automated lip sync and facial animation software for AA-AAA game and virtual production studios like **CD PROJEKT RED**, **Xbox**, and **Obsidian Entertainment**.
+[**JALI**](https://jaliresearch.com/) provides automated lip sync and facial animation software for AA-AAA game and virtual production studios like [**CD PROJEKT RED**](https://www.cdprojektred.com/), **Xbox**, and [**Obsidian Entertainment**](https://www.obsidian.net/).
 
   - Over 350 hours in 2022-2024, I co-developed JALI's Unreal Engine plugin and emotion tagging desktop app used by these studios. I also provided engineering mentorship to JALI's internal developers so they can be self sufficient.
 
 [**Gardens Interactive**](https://gardens.dev/) is a distributed games studio from developers of games like _Journey, What Remains of Edith Finch, Sky: Children of the Light, Blaseball, Dustforce, Guild Wars 2, Firewatch_, and more.
 
-  - Over 60 hours in 20224, I assisted them with their upcoming flagship game, implementing "forking" Linux game servers to optimize usage and assisting with debugging desynchronization issues with CMC and Gameplay Abilities.
+  - Over 60 hours in 2024, I assisted them with their upcoming flagship game, implementing "forking" Linux game servers to optimize usage and assisting with debugging desynchronization issues with CMC and Gameplay Abilities.
 
-## Past Projects
+## Awards
 
-### Talks
+[**$25k USD Epic MegaGrant for Redwood Multiplayer Backend**](https://redwoodmultiplayer.com/blog/megagrant-announcement)
+
+**2k REP ([~$70k USD at award](https://x.com/AugurProject/status/1012073867026632704?s=20)) Software Bounty for a [Portable Solidity Debugger](https://github.com/AugurProject/augur-bounties#-bounty-2-portable-solidity-debugger)**
+
+## Unreal Engine Accepted Contributions
+
+- Mar 2022: [UE5 Editor cannot package dedicated server targets](https://github.com/EpicGames/UnrealEngine/pull/8947)
+- Nov 2022: [Add source control actions for OFPA actors in Level Editor Outliner](https://github.com/EpicGames/UnrealEngine/pull/9310)
+- Nov 2022: [Fix issues with initial integration of OFPA outliner source control actions](https://github.com/EpicGames/UnrealEngine/pull/9372)
+- Sep 2025: [[UBA] Add UBA Agent args to match closer to UBT](https://github.com/EpicGames/UnrealEngine/pull/13771)
+- Sep 2025: [[UBA] Increase buffer size of SystemInfo input to prevent crash](https://github.com/EpicGames/UnrealEngine/pull/13773)
+- Sep 2025: [[Horde] Add option for artificial max RAM for Agents](https://github.com/EpicGames/UnrealEngine/pull/13774)
+
+## Talks
 
 ⚡ [**Cheating on My CPU with Distributed Unreal Builds: A UBA Love Story**](https://www.youtube.com/watch?v=fTUBDlvRUy0) ⚡ MDEV 2025 and MIGS 2025
+
+🌲 [**Scaling Multiplayer Games with the Redwood Backend**](https://www.youtube.com/live/YkwOrgSVNqo?si=b5Eyg3ngdah-bOEd&t=274) 🌲 Inside Unreal | Nov 2024
+
+🔄️ [**Understanding Asset Dependencies in Unreal Engine 5**](https://www.youtube.com/watch?v=AVSZOEHy3_I) 🔄️ Unreal PDX | Jul 2023
+
+🎮 [**Introduction to Multiplayer in Unreal Engine 5**](https://www.youtube.com/watch?v=0IwWbH7R6i4) 🎮 Unreal PDX | Feb 2023
 
 ⭕ [**Truffle Teams Demo**](https://www.youtube.com/watch?v=LsQ2Iwd5VMc) ⭕ TruffleCon 2020
 
 🎁 **Push It! Push It Real Good: Truffle Teams Intro & Deployments** 🎁 TruffleCon 2019 (no recording)
 
 🍫 **Just When you Thought Ganache Couldn't get any Sweeter** 🍫 TruffleCon 2018 (no recording)
+
+## Past Projects
+
+### Unreal Plugins
 
 ### Game Jams
 
@@ -47,6 +78,10 @@
 🎃 [**Mission: Monster**](https://incanta.itch.io/mission-monster) 🎃 Gilbert the Intergalactic Gourd is on a mission to rescue a stranded agent from Earth's scary trick-or-treaters.
 
 🦊 [**Niko the Fox**](https://incanta.itch.io/niko-the-fox) 🦊 A short, cartoon 3D stealth platformer about a fox re-discovering his past.
+
+### Other
+
+👓 [**Velma**](https://github.com/mikeseese/velma) 👓 The first real-time [Solidity](https://www.soliditylang.org/) debugger
 
 ## Hobbies
 
