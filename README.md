@@ -10,6 +10,17 @@
 
 💼 Looking for employment and contract opportunities
 
+- [Recent Projects](#recent-projects)
+- [Client Work](#client-work)
+- [Awards](#awards)
+- [Unreal Engine Accepted Contributions](#unreal-engine-accepted-contributions)
+- [Talks](#talks)
+- Past Projects
+  - [Unreal Plugins](#unreal-plugins)
+  - [Game Jams](#game-jams)
+  - [Other Projects](#other-projects)
+- [Hobbies](#hobbies)
+
 ## Recent Projects
 
 🌲 [**Redwood Multiplayer Backend**](https://redwoodmultiplayer.com) 🌲 Self-hosted, source-available backend for small-large, persistent/match-based multiplayer games
@@ -71,6 +82,12 @@
 
 ### Unreal Plugins
 
+💾 [**FileSDK**](https://www.fab.com/listings/9020eef3-f598-473d-9964-84ad507002be) 💾 (⭐ 5.0, 25+ ratings) Free, open source plugin to provide Blueprint nodes for UE's file utilities
+
+📑 [**Blueprint CSV Parsing**](https://www.fab.com/listings/1f5fc0dd-6b38-475b-8e5d-4dddae0d5852) 📑 (⭐ 5.0, 8+ ratings) Free, open source plugin to parse CSV strings with Blueprint nodes
+
+🧘 [**Zen Dev**](https://www.fab.com/listings/cacabb1a-763b-4703-b993-a6f6ca5b807c) 🧘 (⭐ 5.0, 33+ ratings) Affordable plugin to toggle editor panels and UE4 "Content Drawer"
+
 ### Game Jams
 
 👔 [**4:30 Shuffle**](https://incanta.itch.io/430-shuffle) 👔 Break free from the office at the end of work week to make it to happy hour!
@@ -79,7 +96,7 @@
 
 🦊 [**Niko the Fox**](https://incanta.itch.io/niko-the-fox) 🦊 A short, cartoon 3D stealth platformer about a fox re-discovering his past.
 
-### Other
+### Other Projects
 
 👓 [**Velma**](https://github.com/mikeseese/velma) 👓 The first real-time [Solidity](https://www.soliditylang.org/) debugger
 
