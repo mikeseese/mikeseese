@@ -29,6 +29,8 @@
 
 🌐 [**Unreal Engine ChromiumView Plugin**](https://github.com/incanta/ChromiumView) 🌐 An open source plugin that enables using web rendering (e.g. [React](https://react.dev/), [Solid](https://www.solidjs.com/), [Preact](https://preactjs.com/)) integreated with the [MVVM plugin](https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine)
 
+🕸️ <ins>**Unreal Engine Server Meshing System**</ins> 🕸️ An upcoming system for my Redwood backend for large open world online games to have actors synchronize across server boundaries and enable players to transfer to neighboring servers without loading screens
+
 🤖 <ins>**Unreal Engine Agentic Plugin**</ins> 🤖 An upcoming plugin that enables building LLM agentic in Unreal Engine C++ or Blueprints for editor or runtime actions
 
 🗝️ <ins>**EzKeys Steam Key Management Platform**</ins> 🗝️ An upcoming free to self-host webapp to manage Steam playtester keys (an affordable alternative to [FirstLook](https://firstlook.gg/))
