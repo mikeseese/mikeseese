@@ -8,7 +8,7 @@
 
 ⏩ Self-starting, needs-no-hand-holding, productive-on-first-day, senior+ software engineer with a knack for solving complex problems and a keen sense for great UX and Product
 
-💼 Looking for employment and contract opportunities; [contact me if you're interested in meeting](mailto:mike@incanta.dev)
+💼 Looking for short and long term contract opportunities; [contact me if you're interested in meeting](mailto:mike@incanta.dev)
 
 - [Recent Projects](#recent-projects)
 - [Client Work](#client-work)
